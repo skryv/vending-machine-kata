@@ -1,10 +1,5 @@
 #  Vending Machine Kata
 
-## Requirement
-
-- JDK 1.8+
-- Maven
-
 ## Description
 
 In this exercise you will build the brains of a vending machine.  It will accept money, make change, maintain
